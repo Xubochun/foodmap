@@ -1,3 +1,4 @@
+import React from 'react';
 //import Mapui from './components/Mapui'
 import Menubar from './components/Menubar'
 import Searchbutton from './components/Searchbutton'
