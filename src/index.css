@@ -13,17 +13,17 @@ code {
 }
 
 .info {
-    margin:0 10% 0 10%;
+    margin:20px 10% 0 10%;
     width: 80%;
     height: 100%;
     display: flex;
     justify-content: space-between;
 }
 .left {
-    width: 30%;
+    width: 40%;
     height: 100%;
     background-color: #FAFAFA;
-    padding: 20px;
+    padding: 10px;
 }
 .right{
     width: 70%;
