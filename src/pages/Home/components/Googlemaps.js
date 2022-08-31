@@ -1,7 +1,7 @@
 import React from 'react'
 import GoogleMapReact from 'google-map-react'
 
-const Googlemaps = () => {
+const Googlemaps = (props) => {
 
     const defaultProps = {
         center: {
@@ -20,7 +20,7 @@ const Googlemaps = () => {
 
     return <div style={{ height: '80vh', width: '100%' }}>
       <GoogleMapReact
-        bootstrapURLKeys={{ key: process.env.NEXT_PUBLIC_GOOGLE_MAP_API_KEY }}
+        bootstrapURLKeys={{ key: '' }}
         defaultCenter={defaultProps.center}
         defaultZoom={15}
         yesIWantToUseGoogleMapApiInternals

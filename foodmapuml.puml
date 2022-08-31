@@ -1,0 +1,15 @@
+@startwbs
+*[#SkyBlue] Food Map
+** public
+** src
+*** home
+**** components
+*****_ Googlemaps.js
+*****_ Mapui.js
+*****_ Menubar.js
+*****_ Searchbutton.js
+****_ index.js
+*** page
+***_ index.js - calles ReactDOM.reader() [entry point]
+***_ index.css
+@endwbs
