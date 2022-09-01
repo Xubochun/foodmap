@@ -1,7 +1,6 @@
 import React from 'react'
 import Menubar from './components/Menubar'
 //import Searchbutton from './components/Searchbutton'
-
 //import Mapui from './components/Mapui'
 import Googlemaps from './components/Googlemaps'
 
@@ -14,7 +13,6 @@ import Googlemaps from './components/Googlemaps'
 */
 
 const Home = () => {
-
 
     return <div className='homepage'>
         <Menubar />
