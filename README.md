@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+If you npm version is latest, and then you can enter npm i --legacy-peer-deps to cmd.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
